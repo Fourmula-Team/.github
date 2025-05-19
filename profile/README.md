@@ -70,7 +70,7 @@ We’ve organized our repository into key development branches for better collab
 Got feedback, collaboration offers, or just want to say hi? Let’s connect!
 
 - 📧 Email: hiremeai.project@gmail.com
-- 🐙 GitHub: [Fourmula Team Repository](https://github.com/fourmula)
+- 🐙 GitHub: [Fourmula Team Repository](https://github.com/Fourmula-Team/hireme.ai)
 - 💼 LinkedIn: [Team Page / Members](#)
 
 ---
